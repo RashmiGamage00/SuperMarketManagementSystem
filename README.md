@@ -15,5 +15,4 @@ Please go under edit and edit this file as needed for your project
 
 #### Technologies used - Mongo DB( Database server ), Node js(Backend), Express js(Framework), React js(Front end), Development IDE ( Visual Studio Code)
 
-Note - The student's github account should be given in brackets e.g. (asiriRepos), this ideally should be your student id 
 
